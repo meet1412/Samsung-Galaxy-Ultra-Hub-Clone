@@ -1,4 +1,5 @@
 # Samsung-Galaxy-Ultra-Hub-Clone
+<b><h2>Live Link: https://meet1412.github.io/Samsung-Galaxy-Ultra-Hub-Clone/</b></h2><br>
 <b>Galaxy Ultra Hub is a modern promotional website designed to showcase the Samsung Galaxy S23 Ultra, Samsung's flagship smartphone. This website provides potential buyers with an in-depth overview of the device's features, pricing, and purchase options in a user-friendly and visually appealing format.</b>
 
 <h1>Features</h1>
